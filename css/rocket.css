@@ -45,8 +45,8 @@ a:hover {
 
 
 .ground {
-  background: url('../img/ground.png') no-repeat center center;
   position: absolute;
+  background: url('../img/ground.png') no-repeat center center;
   bottom: 0px;
   width: 100%;
   height: 80px;
